@@ -1,0 +1,11 @@
+{
+    "manifest_version": 2,
+    "version": "0.1",
+    "name": "Transform-text",
+    "description": "App onde é possível colocar um texto em Maiúsculo ou Minúsculo.",
+    "browser_action": {
+        "default_popup": "index.html",
+        "default_icon":  "/images/icon.png"
+    }
+    
+}
